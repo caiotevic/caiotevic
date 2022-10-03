@@ -1,4 +1,4 @@
-### Oi, sou caiote e sou estudante de ciencia da computação.
+### Oi, sou Caio e sou estudante de ciencia da computação.
 
 - 🔭 Trabalho com front-end
 - 🌱 Estudandoo Java e Python
