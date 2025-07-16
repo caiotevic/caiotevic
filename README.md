@@ -1,7 +1,7 @@
-### Oi, sou Caio e sou estudante de ciencia da computação.
+### Oi, sou Caio e sou estudante de Ciencia da Computação.
 
 - 🔭 Trabalho com front-end;
-- 🌱 Estudando POO e C;
+- 🌱 Estudando sobre Banco de dados;
 
 <div align="center">
   <a href="https://github.com/caiotevic">
